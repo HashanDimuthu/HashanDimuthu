@@ -24,6 +24,8 @@
 ## 🎵 Now playing
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
 
+## My Github Activity Graph
+
 [![Hashan's github activity graph](https://activity-graph.herokuapp.com/graph?username=HashanDimuthu&theme=dracula)](https://github.com/HashanDimuthu/github-readme-activity-graph)
 
 
