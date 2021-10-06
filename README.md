@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66FF00&lines=--Hi+I'm+Hashan+;--Curently+Learning+Python+language;--A+Student+Yet+;--I+am+16+years+old+;--Want+to+be+a+Software+Engineer)](https://git.io/typing-svg)
 
+<img align="senter" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:50%;">
+
 - ⭕Name = Hashan Dimuthu
 - ⭕Age = 16 Years old
 - ⭕School = I am curently go Galahitiyawa Central College
