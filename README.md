@@ -17,6 +17,8 @@
 
 [@HashanDimuthu](https://t.me/HashanDimuthu)
 
+## My Streak Stats
+
 [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=HashanDimuthu&theme=highcontrast)](https://github.com/HashanDimuthu/github-readme-streak-stats)
 
 ## 🎵 Now playing
