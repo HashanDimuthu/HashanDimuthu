@@ -11,7 +11,7 @@
 
 ## Contact me On Telegram
 
-[@HashanDimuthu](https://t.me/HashanDimuthu)
+Telegram=[@HashanDimuthu](https://t.me/HashanDimuthu)
 
 ## My Github States
 
