@@ -17,6 +17,12 @@
 
 ![hashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HashanDimuthu&show_icons=true&theme=highcontrast)
 
+## Used Languages
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=viharsenindu">
+    <img width="40%"alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viharasenindu&show_icons=true&theme=midnight-purple" />
+  </a>
+
 ## My Streak Stats
 
 [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=HashanDimuthu&theme=highcontrast)](https://github.com/HashanDimuthu/github-readme-streak-stats)
