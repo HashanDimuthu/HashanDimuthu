@@ -11,7 +11,7 @@
 
 ## Contact me On These
 
-Telegram = <a href="https://t.me/HashanDimuthu"><img src="https://img.shields.io/badge/Hashan Dimuthu-blue.svg?logo=telegram"></a>
+Telegram = <a href="https://t.me/HashanDimuthu"><img src="https://img.shields.io/badge/Hashan Dimuthu-blue.svg?logo=telegram"></a><br>
 You Tube = <a href="https://www.youtube.com/channel/UCMb9Rcf7mh71x9glgb5oR8A"><img src="https://img.shields.io/badge/Hashan Dimuthu-red.svg?logo=YouTube"></a>
 
 ## My Github States
