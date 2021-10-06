@@ -6,6 +6,3 @@
 - ⭕Country = Sri Lanka,Gampaha
 - ⭕I am curently learning Python
 - ⭕Contact me = [@HashanDimuthu](https://t.me/HashanDimuthu)
-- ⭕
-- ⭕
--->
