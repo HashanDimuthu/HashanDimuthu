@@ -9,6 +9,6 @@
 
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HashanDimuthu)](https://github.com/HashanDimuthu/github-readme-activity-graph)
+[![Hashan's github activity graph](https://activity-graph.herokuapp.com/graph?username=HashanDimuthu)](https://github.com/HashanDimuthu/github-readme-activity-graph)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HashanDimuthutheme=dracula)](https://github.com/HashanDimuthu/github-readme-activity-graph)
+[![Hashan's github activity graph](https://activity-graph.herokuapp.com/graph?username=HashanDimuthutheme=dracula)](https://github.com/HashanDimuthu/github-readme-activity-graph)
