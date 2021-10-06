@@ -17,10 +17,6 @@
 
 ![hashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HashanDimuthu&show_icons=true&theme=highcontrast)
 
-## 📊 Stats
-[![Metrics](https://github.com/HashanDimuthu/HashanDimuthu/raw/main/github-metrics.svg)](https://github.com/HashanDimuthu)
-
-
 ## My Streak Stats
 
 [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=HashanDimuthu&theme=highcontrast)](https://github.com/HashanDimuthu/github-readme-streak-stats)
