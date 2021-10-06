@@ -8,7 +8,4 @@
 - ⭕Contact me = [@HashanDimuthu](https://t.me/HashanDimuthu)
 
 
-
-[![Hashan's github activity graph](https://activity-graph.herokuapp.com/graph?username=HashanDimuthu)](https://github.com/HashanDimuthu/github-readme-activity-graph)
-
 [![Hashan's github activity graph](https://activity-graph.herokuapp.com/graph?username=HashanDimuthu&theme=dracula)](https://github.com/HashanDimuthu/github-readme-activity-graph)
