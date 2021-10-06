@@ -7,7 +7,7 @@
 - ⭕School = I am curently go Galahitiyawa Central College
 - ⭕Country = Sri Lanka,Gampaha
 - ⭕I am curently learning Python
-- ⭕Contact me = [@HashanDimuthu](https://t.me/HashanDimuthu)
+- ⭕Contact me =<a href="https://t.me/HashanDimuthu"><img src="https://img.shields.io/badge/Hashan Dimuthu-blue.svg?logo=telegram"></a>
 
 ## Contact me On Telegram
 
