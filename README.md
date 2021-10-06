@@ -13,7 +13,7 @@
 
 Telegram = <a href="https://t.me/HashanDimuthu"><img src="https://img.shields.io/badge/Hashan Dimuthu-blue.svg?logo=telegram"></a><br>
 You Tube = <a href="https://www.youtube.com/channel/UCMb9Rcf7mh71x9glgb5oR8A"><img src="https://img.shields.io/badge/Hashan Dimuthu-red.svg?logo=YouTube"></a><br>
-Gmail = <a href="hashandimuthu10@gmail.com"><img src="https://img.shields.io/badge/Hashan Dimuthu-Green.svg?logo=Gmail"></a>
+Gmail    = <a href="hashandimuthu10@gmail.com"><img src="https://img.shields.io/badge/Hashan Dimuthu-Green.svg?logo=Gmail"></a>
 
 ## My Github States
 
