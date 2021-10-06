@@ -13,6 +13,9 @@
 
 [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=HashanDimuthu&theme=highcontrast)](https://github.com/HashanDimuthu/github-readme-streak-stats)
 
+## 🎵 Now playing
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
+
 [![Hashan's github activity graph](https://activity-graph.herokuapp.com/graph?username=HashanDimuthu&theme=dracula)](https://github.com/HashanDimuthu/github-readme-activity-graph)
 
 
