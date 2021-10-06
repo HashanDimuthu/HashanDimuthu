@@ -7,4 +7,8 @@
 - ⭕I am curently learning Python
 - ⭕Contact me = [@HashanDimuthu](https://t.me/HashanDimuthu)
 
+
+
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HashanDimuthu)](https://github.com/HashanDimuthu/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=HashanDimuthutheme=dracula)](https://github.com/HashanDimuthu/github-readme-activity-graph)
