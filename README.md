@@ -1,5 +1,7 @@
 ### Hi there I am Hashan👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66FF00&lines=--Hi+I'm+Hashan+;--Learning+on+Telegram+developing;--A+Student+Yet)](https://git.io/typing-svg)
+
 - ⭕Name = Hashan Dimuthu
 - ⭕Age = 16 Years old
 - ⭕School = I am curently go Galahitiyawa Central College
