@@ -9,6 +9,10 @@
 - ⭕I am curently learning Python
 - ⭕Contact me = [@HashanDimuthu](https://t.me/HashanDimuthu)
 
+## Contact me On Telegram
+
+[@HashanDimuthu](https://t.me/HashanDimuthu)
+
 ## My Github States
 
 ![hashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HashanDimuthu&show_icons=true&theme=highcontrast)
