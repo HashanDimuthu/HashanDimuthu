@@ -13,9 +13,6 @@
 
 ![hashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HashanDimuthu&show_icons=true&theme=highcontrast)
 
-### Contact me On Telegram
-
-[@HashanDimuthu](https://t.me/HashanDimuthu)
 
 ## My Streak Stats
 
