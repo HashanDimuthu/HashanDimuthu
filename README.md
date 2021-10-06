@@ -27,6 +27,8 @@
 
 [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=HashanDimuthu&theme=highcontrast)](https://github.com/HashanDimuthu/github-readme-streak-stats)
 
+## States
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=HashanDimuthu&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
 
 ## 🎵 Now playing
