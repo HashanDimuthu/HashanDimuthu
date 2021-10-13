@@ -2,6 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66FF00&lines=--Hi+I'm+Hashan+;--Curently+Learning+Python+language;--A+Student+Yet+;--I+am+16+years+old+;--Want+to+be+a+Software+Engineer)](https://git.io/typing-svg)
 
+|<a href="https://t.me/HashanDimuthu/"><img src="https://avatars.githubusercontent.com/u/91044348?v=4" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------:|
+|       **[Portfolio](https://hashandimuthu.github.io/Hashan.github.io/)**                                                                                |
+| <a href="https://github.com/HashanDimuthu"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a>
+
+
 <img align="senter" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:50%;">
 
 - ⭕Name = Hashan Dimuthu
