@@ -6,7 +6,7 @@
 |:---------------------------------------------------------------------------------------------------------------------------------------:|
 |       **[Portfolio](https://hashandimuthu.github.io/Hashan.github.io/)**                                                                                |
 | <a href="https://github.com/HashanDimuthu"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a>|
-| <a href="https://t.me/HashanDimuthu" <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="32px" height="32px"/></a> &nbsp;&nbsp;
+| <a href="https://t.me/HashanDimuthu" <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/335_Telegram_logo-256.png" width="32px" height="32px"/></a> &nbsp;&nbsp;|
 
 
 <img align="senter" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:50%;">
