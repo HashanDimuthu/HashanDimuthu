@@ -28,7 +28,7 @@ You Tube = <a href="https://www.youtube.com/channel/UCMb9Rcf7mh71x9glgb5oR8A"><i
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=viharsenindu">
     <img width="40%"alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viharasenindu&show_icons=true&theme=midnight-purple" />
-  </a
+  </a><br>
 
 <a href="https://github.com/htr-tech"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide_border=true" />
 </a></p>
