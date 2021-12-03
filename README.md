@@ -4,7 +4,7 @@
 
 |<a href="https://t.me/HashanDimuthu/"><img src="https://avatars.githubusercontent.com/u/91044348?v=4" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------:|
-|       **[Hashan Dimuthu](https://hashandimuthu.github.io/Hashan.github.io/)**                                                                                |
+|       **[Hashan Dimuthu](https://hashandimuthu.github.io/IamHashan/)**                                                                                |
 | <a href="https://github.com/HashanDimuthu"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a>|
 
 <img align="senter" src="https://github.com/RazorKenway/RazorKenway/raw/main/Developer.gif" style="max-width:50%;">
