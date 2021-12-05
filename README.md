@@ -41,6 +41,11 @@ You Tube = <a href="https://www.youtube.com/channel/UCMb9Rcf7mh71x9glgb5oR8A"><i
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=HashanDimuthu&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
 
+<h2><details>
+  <summary><b>My github stats</b></summary>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HashanDimuthu" alt="HashanDimuthu" /></a> </p>
+ </details></h2>
+
 ## 🎵 Now playing
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
 
