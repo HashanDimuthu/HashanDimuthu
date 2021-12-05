@@ -27,10 +27,10 @@ You Tube = <a href="https://www.youtube.com/channel/UCMb9Rcf7mh71x9glgb5oR8A"><i
 ## Used Languages
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=viharsenindu">
-    <img width="40%"alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viharasenindu&show_icons=true&theme=midnight-purple" />
+    <img width="40%"alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashanDimuthu&show_icons=true&theme=midnight-purple" />
   </a><br><hr>
 
-<a href="https://github.com/htr-tech"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide_border=true" />
+<a href="https://github.com/htr-tech"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashanDimuthu&layout=compact&theme=react&hide_border=true" />
 </a></p>
 
 ## My Streak Stats
