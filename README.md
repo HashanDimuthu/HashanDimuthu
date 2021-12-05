@@ -54,5 +54,8 @@ You Tube = <a href="https://www.youtube.com/channel/UCMb9Rcf7mh71x9glgb5oR8A"><i
 
 [![Hashan's github activity graph](https://activity-graph.herokuapp.com/graph?username=HashanDimuthu&theme=dracula)](https://github.com/HashanDimuthu/github-readme-activity-graph)
 
+## 🏆 GitHub Activity
+
+![Metrics](https://metrics.lecoq.io/HashanDimuthu?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FSemarang)
 
 
