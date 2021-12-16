@@ -17,13 +17,6 @@
 - ⭕Contact me =<a href="https://t.me/HashanDimuthu"><img src="https://img.shields.io/badge/Hashan Dimuthu-blue.svg?logo=telegram"></a>
 - ⭕Contact Me on My Website = <a href="https://hashandimuthu.godaddysites.com">Click Here</a>
 
-
-## Contact me On These
-
-Telegram = <a href="https://t.me/HashanDimuthu"><img src="https://img.shields.io/badge/Hashan Dimuthu-blue.svg?logo=telegram"></a><br>
-You Tube = <a href="https://www.youtube.com/channel/UCMb9Rcf7mh71x9glgb5oR8A"><img src="https://img.shields.io/badge/Hashan Dimuthu-red.svg?logo=YouTube"></a><br>
-## My Github States
-
 ![hashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HashanDimuthu&show_icons=true&theme=highcontrast)
 
 ## Used Languages
@@ -32,8 +25,6 @@ You Tube = <a href="https://www.youtube.com/channel/UCMb9Rcf7mh71x9glgb5oR8A"><i
     <img width="40%"alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashanDimuthu&show_icons=true&theme=midnight-purple" />
   </a><br><hr>
 
-<a href="https://github.com/htr-tech"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashanDimuthu&layout=compact&theme=react&hide_border=true" />
-</a></p>
 
 ## My Streak Stats
 
@@ -47,10 +38,6 @@ You Tube = <a href="https://www.youtube.com/channel/UCMb9Rcf7mh71x9glgb5oR8A"><i
   <summary><b>My github stats</b></summary>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HashanDimuthu" alt="HashanDimuthu" /></a> </p>
  </details></h2>
-
-
-## 🎵 Now playing
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
 
 ## My Github Activity Graph
 
