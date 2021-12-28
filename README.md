@@ -34,10 +34,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=HashanDimuthu&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
 
- <h2><details>
-  <summary><b>My github stats</b></summary>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HashanDimuthu" alt="HashanDimuthu" /></a> </p>
- </details></h2>
 
 ## My Github Activity Graph
 
