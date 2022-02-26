@@ -15,8 +15,8 @@
 - ⭕Country = Sri Lanka,Gampaha
 - ⭕I am curently learning Python
 - ⭕Contact me =<a href="https://t.me/HashanDimuthu"><img src="https://img.shields.io/badge/Hashan Dimuthu-blue.svg?logo=telegram"></a>
-- ⭕By My ko-fi = <a target="_blank" href="https://ko-fi.com/hashandimuthu10"> ko-fi</a>
-- ⭕Contact Me on My Website = <a href="https://hashandimuthu.godaddysites.com">Click Here</a>
+- ⭕By My ko-fi = <a href="https://ko-fi.com/hashandimuthu10"> ko-fi</a>
+- ⭕Contact Me on My Website = <a href="https://hashandimuthu.github.io/DimuthuHashan/">Click Here</a>
 
 ![hashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HashanDimuthu&show_icons=true&theme=highcontrast)
 
